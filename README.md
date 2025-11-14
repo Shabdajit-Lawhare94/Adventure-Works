@@ -10,8 +10,10 @@ The Adventure works Cycle is a manufacturing company and it manufactures the cyc
 # POWER BI DASHBOARD
 # Overview of adventure Works 
 <img width="909" height="509" alt="Image" src="https://github.com/user-attachments/assets/07eb5b16-ffc7-4da2-b707-700d6b536b43" />
+
 # Customers Analysis
 <img width="916" height="521" alt="Image" src="https://github.com/user-attachments/assets/dce83e8c-f00b-464f-b149-869637390d9a" />
+
 # Product Analysis
 <img width="914" height="518" alt="Image" src="https://github.com/user-attachments/assets/cd15a595-5ec6-4cb6-9bde-d77afeb6578d" />
 
